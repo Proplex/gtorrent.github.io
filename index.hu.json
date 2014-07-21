@@ -1,0 +1,27 @@
+{
+    "_author": "bem13",
+    "_language": "Hungarian",
+    "_comment": "Hungarian translation",
+    "_ind": 0,
+
+    "hero_lead": "Egy nulláról felépített torrent kliens amely kis rendszerigényû, moduláris és nyitott.",
+    "hero_sub": "Natívan elérhetõ Windows-ra, Mac-re és Linux-ra.",
+
+    "feature1_title": "Az egyszerûséget<br> észben tartva tervezve",
+    "feature1_sub": "A gTorrent-et bárki használhatja, nem számít, hogy szakember vagy sem",
+    "feature2_title": "A modularitást<br> észben tartva tervezve",
+    "feature2_sub": "Bárki elkészítheti a saját felületét bármilyen platformra egyetlen, megosztott könyvtárra építkezve",
+
+    "examples_lead": "Ráadásul bárki elkészítheti a saját felületét bármilyen platformra",
+    "examples_sub": "Íme néhány a kedvenceink közül",
+    "example1": "Ez nagyon szép",
+    "example2": "Ez rendkívül testre szabható",
+    "example3": "Ez egy szar",
+
+    "binaries": "Futtatható állományok a te platformodra",
+
+    "footer_updated": "Szeretnél képben maradni?",
+    "footer_sub": "A gTorrent GNU GPL licensz alatt készül, minden hozzájárulást szívesen fogadunk.",
+    "footer_irc": "Csatlakozz hozzánk IRC-en."
+
+}
