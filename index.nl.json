@@ -1,0 +1,27 @@
+{
+    "_author": "Methaneus",
+    "_language": "Nederlands",
+    "_comment": "gTorrent beschrijving in het Nederlands / gTorrent description in Dutch",
+    "_ind": 0,
+
+    "hero_lead": "Een torrentprogramma vanaf het begin gebouwd om licht, modulair en open te zijn.",
+    "hero_sub": "Beschikbaar voor Windows, Mac, en Linux.",
+
+    "feature1_title": "Ontworpen met<br> het oog op eenvoudigheid",
+    "feature1_sub": "gTorrent is a client for all users, ongeacht hoe technisch ze wel of niet zijn",
+    "feature2_title": "Ontworpen met<br> het oog op modulariteit",
+    "feature2_sub": "Iedereen kan zijn eigen gebruikersomgeving schrijven, voor elk platform, door op een enkele, gedeelde kern te bouwen",
+
+    "examples_lead": "Plus, iedereen kan zijn eigen gebruikersomgeving schrijven, voor elk platform",
+    "examples_sub": "Dit zijn een paar van onze favorieten",
+    "example1": "Deze is erg leuk en mooi",
+    "example2": "Deze is erg veranderbaar",
+    "example3": "Deze is gewoon kak",
+
+    "binaries": "Installatieprogramma's voor uw platform",
+
+    "footer_updated": "Wilt u op de hoogte blijven?",
+    "footer_sub": "gTorrent wordt uitgegeven onder het GNU GPL, en contributies zijn welkom.",
+    "footer_irc": "Bezoek ons op IRC"
+
+}
