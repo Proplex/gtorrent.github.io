@@ -4,24 +4,24 @@
     "_comment": "Hungarian translation",
     "_ind": 0,
 
-    "hero_lead": "Egy nulláról felépített torrent kliens amely kis rendszerigényû, moduláris és nyitott.",
-    "hero_sub": "Natívan elérhetõ Windows-ra, Mac-re és Linux-ra.",
+    "hero_lead": "Egy nullÃ¡rÃ³l felÃ©pÃ­tett torrent kliens amely kis rendszerigÃ©nyÅ±, modulÃ¡ris Ã©s nyitott.",
+    "hero_sub": "NatÃ­van elÃ©rhetÅ‘ Windows-ra, Mac-re Ã©s Linux-ra.",
 
-    "feature1_title": "Az egyszerûséget<br> észben tartva tervezve",
-    "feature1_sub": "A gTorrent-et bárki használhatja, nem számít, hogy szakember vagy sem",
-    "feature2_title": "A modularitást<br> észben tartva tervezve",
-    "feature2_sub": "Bárki elkészítheti a saját felületét bármilyen platformra egyetlen, megosztott könyvtárra építkezve",
+    "feature1_title": "Az egyszerÅ±sÃ©get<br> Ã©szben tartva tervezve",
+    "feature1_sub": "A gTorrent-et bÃ¡rki hasznÃ¡lhatja, nem szÃ¡mÃ­t, hogy szakember vagy sem",
+    "feature2_title": "A modularitÃ¡st<br> Ã©szben tartva tervezve",
+    "feature2_sub": "BÃ¡rki elkÃ©szÃ­theti a sajÃ¡t felÃ¼letÃ©t bÃ¡rmilyen platformra egyetlen, megosztott kÃ¶nyvtÃ¡rra Ã©pÃ­tkezve",
 
-    "examples_lead": "Ráadásul bárki elkészítheti a saját felületét bármilyen platformra",
-    "examples_sub": "Íme néhány a kedvenceink közül",
-    "example1": "Ez nagyon szép",
-    "example2": "Ez rendkívül testre szabható",
+    "examples_lead": "RÃ¡adÃ¡sul bÃ¡rki elkÃ©szÃ­theti a sajÃ¡t felÃ¼letÃ©t bÃ¡rmilyen platformra",
+    "examples_sub": "Ãme nÃ©hÃ¡ny a kedvenceink kÃ¶zÃ¼l",
+    "example1": "Ez nagyon szÃ©p",
+    "example2": "Ez rendkÃ­vÃ¼l testre szabhatÃ³",
     "example3": "Ez egy szar",
 
-    "binaries": "Futtatható állományok a te platformodra",
+    "binaries": "FuttathatÃ³ Ã¡llomÃ¡nyok a te platformodra",
 
-    "footer_updated": "Szeretnél képben maradni?",
-    "footer_sub": "A gTorrent GNU GPL licensz alatt készül, minden hozzájárulást szívesen fogadunk.",
-    "footer_irc": "Csatlakozz hozzánk IRC-en."
+    "footer_updated": "SzeretnÃ©l kÃ©pben maradni?",
+    "footer_sub": "A gTorrent GNU GPL licensz alatt kÃ©szÃ¼l, minden hozzÃ¡jÃ¡rulÃ¡st szÃ­vesen fogadunk.",
+    "footer_irc": "Csatlakozz hozzÃ¡nk IRC-en."
 
 }
